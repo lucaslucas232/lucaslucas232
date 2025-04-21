@@ -1,5 +1,5 @@
 # 💫 About Me:
-HI EVERYBODY!<br>I'm a tech enthusiast, always thinking on what can I learn next.<br><br>"time flies when you're looking for bugs" is my excuse for being always late to social gatherings.<br><br>💻 VB.NET enthusiast, database explorer, and GUI tinkerer.<br>🚀 Let's collaborate, share ideas, and make cool stuff together!<br>⭐️ Check out my projects, or just drop by to say hi.<br><br>
+HI EVERYBODY! I'm Lucas<br>I'm a tech enthusiast, always thinking on what can I learn next.<br><br>"time flies when you're looking for bugs" is my excuse for being always late to social gatherings.<br><br>💻 VB.NET enthusiast, database explorer, and GUI tinkerer.<br>🚀 Let's collaborate, share ideas, and make cool stuff together!<br>⭐️ Check out my projects, or just drop by to say hi.<br><br>
 
 
 ## 🌐 Socials:
